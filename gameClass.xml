@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://www.guilded.eu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.guilded.eu http://www.guilded.eu/XSD/game-class.xsd">
+	<import>
+		<!-- @todo get the right identifiers -->
+		<classification name="deathknight">
+			<races><![CDATA[bloodelf,draenei,dwarf,goblin,gnome,human,nightelf,orc,undead,tauren,troll,worgen]]></races>	<!-- Optional: Handles race dependencies on character creation. -->
+																															<!-- If this node is not set: No validation of dependencies will be checked.  -->
+
+			<roles><![CDATA[tank,melee]]></roles>	<!-- Optional: Handles race dependencies on character creation. -->
+													<!-- If this node is not set: No validation of dependencies will be checked.  -->
+
+			<icon>deathknight</icon>	<!-- Optional: name of icon file without suffix and directory. -->
+										<!-- An icon must be saved as PNG-File and must located in icon directory of game e.g. icon/wow/ -->
+										<!-- The class icon requires two different sizes and needs to be suffixed (16x16 = deathknight16.png, 32x32 = deathknight32.png) -->
+										<!-- If this node is not set. The Import will automatically use the attribute "name" as icon file name. -->
+
+			<identifier>6</identifier>	<!-- Optional: Internal identifier of class in game. Required for imports and synchronisation. -->
+		</classification>
+
+		<classification name="druid">
+			<races><![CDATA[tauren,troll,nightelf,worgen]]></races>
+			<roles><![CDATA[tank,melee,heal]]></roles>
+			<identifier>6</identifier>
+		</classification>
+
+		<classification name="hunter">
+			<races><![CDATA[bloodelf,draenei,dwarf,goblin,gnome,human,nightelf,orc,undead,tauren,troll,worgen]]></races>
+			<roles><![CDATA[range]]></roles>
+			<identifier>6</identifier>
+		</classification>
+
+		<classification name="mage">
+			<races><![CDATA[bloodelf,draenei,dwarf,human,tauren]]></races>
+			<roles><![CDATA[range]]></roles>
+			<identifier>6</identifier>
+		</classification>
+
+		<classification name="paladin">
+			<races><![CDATA[bloodelf,draenei,dwarf,goblin,gnome,human,nightelf,orc,undead,tauren,troll,worgen]]></races>
+			<roles><![CDATA[tank,melee,heal]]></roles>
+			<identifier>6</identifier>
+		</classification>
+
+		<classification name="priest">
+			<races><![CDATA[bloodelf,draenei,dwarf,goblin,gnome,human,nightelf,orc,undead,tauren,troll,worgen]]></races>
+			<roles><![CDATA[heal,range]]></roles>
+			<identifier>6</identifier>
+		</classification>
+
+		<classification name="rogue">
+			<races><![CDATA[bloodelf,draenei,dwarf,goblin,gnome,human,nightelf,orc,undead,tauren,troll,worgen]]></races>
+			<roles><![CDATA[melee]]></roles>
+			<identifier>6</identifier>
+		</classification>
+
+		<classification name="shaman">
+			<races><![CDATA[draenei,dwarf,goblin,orc,tauren,troll]]></races>
+			<roles><![CDATA[heal,melee,range]]></roles>
+			<identifier>6</identifier>
+		</classification>
+
+		<classification name="warrior">
+			<races><![CDATA[bloodelf,draenei,dwarf,goblin,gnome,human,nightelf,orc,undead,tauren,troll,worgen]]></races>
+			<roles><![CDATA[tank,melee]]></roles>
+			<identifier>6</identifier>
+		</classification>
+
+		<classification name="warlock">
+			<races><![CDATA[bloodelf,draenei,dwarf,goblin,gnome,human,nightelf,orc,undead,troll,worgen]]></races>
+			<roles><![CDATA[range]]></roles>
+			<identifier>6</identifier>
+		</classification>
+
+		<classification name="monk">
+			<races><![CDATA[bloodelf,draenei,dwarf,goblin,gnome,human,nightelf,orc,undead,troll,worgen,pandaren]]></races>
+			<roles><![CDATA[melee]]></roles>
+			<identifier>6</identifier>
+		</classification>
+	</import>
+</data>

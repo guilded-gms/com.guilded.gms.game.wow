@@ -1,0 +1,1 @@
+<span class="wow">{$template}</span>

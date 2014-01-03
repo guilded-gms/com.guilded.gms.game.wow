@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://www.guilded.eu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.guilded.eu http://www.guilded.eu/XSD/game-role.xsd">
+	<import>
+		<!-- @todo get the right identifiers -->
+		<role name="tank">
+			<icon>tank</icon>	<!-- Optional: name of icon file without suffix and directory. -->
+								<!-- An icon must be saved as PNG-File and must located in icon directory of game e.g. icon/wow/ -->
+								<!-- The role icon requires two different sizes and needs to be suffixed (16x16 = tank16.png, 32x32 = tank32.png) -->
+								<!-- If this node is not set. The Import will automatically use the attribute "name" as icon file name. -->
+
+			<identifier>1</identifier>	<!-- Optional: Internal identifier of role in game. Required for imports and synchronisation. -->
+		</role>
+		<role name="melee" />
+		<role name="heal" />
+		<role name="range" />
+	</import>
+</data>

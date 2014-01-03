@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://www.guilded.eu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.guilded.eu http://www.guilded.eu/XSD/game-race.xsd">
+	<import>
+		<!-- @todo get the right identifiers -->
+		<race name="bloodelf">
+			<icon>bloodelf</icon>		<!-- Optional: name of icon file without suffix and directory. -->
+										<!-- An icon must be saved as PNG-File and must located in icon directory of game e.g. icon/wow/ -->
+										<!-- The race icon requires two different sizes and needs to be suffixed (16x16 = bloodelf16.png, 32x32 = bloodelf32.png) -->
+										<!-- If this node is not set. The Import will automatically use the attribute "name" as icon file name. -->
+
+			<identifier>1</identifier>	<!-- Optional: Internal identifier of race in game. Required for imports and synchronisation. -->
+		</race>
+
+		<race name="bloodelf">
+			<identifier>1</identifier>
+		</race>
+
+		<race name="draenei">
+			<identifier>11</identifier>
+		</race>
+
+		<race name="dwarf">
+			<identifier>3</identifier>
+		</race>
+
+		<race name="goblin">
+			<identifier>1</identifier>
+		</race>
+
+		<race name="gnome">
+			<identifier>7</identifier>
+		</race>
+
+		<race name="human">
+			<identifier>1</identifier>
+		</race>
+
+		<race name="nightelf">
+			<identifier>4</identifier>
+		</race>
+
+		<race name="orc">
+			<identifier>1</identifier>
+		</race>
+
+		<race name="undead">
+			<identifier>1</identifier>
+		</race>
+
+		<race name="tauren">
+			<identifier>1</identifier>
+		</race>
+
+		<race name="troll">
+			<identifier>1</identifier>
+		</race>
+
+		<race name="worgen">
+			<identifier>22</identifier>
+		</race>
+
+		<race name="pandaren">
+			<identifier>1</identifier>
+		</race>
+	</import>
+</data>

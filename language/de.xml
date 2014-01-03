@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language languagecode="de" xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/maelstrom/language.xsd">
+	<category name="gms.game">
+		<item name="gms.game.wow.title"><![CDATA[World of Warcraft: Mists of Pandaria]]></item>
+		<item name="gms.game.wow.class.priest"><![CDATA[Priester]]></item>
+	</category>
+</language>
