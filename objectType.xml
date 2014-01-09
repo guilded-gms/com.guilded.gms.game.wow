@@ -3,12 +3,12 @@
 	<import>
 		<type>
 			<name>com.guilded.gms.game.provider.wow</name>
-			<definitionname>com.guilded.wcf.game.provider</definitionname>
+			<definitionname>com.guilded.gms.game.provider</definitionname>
 			<classname>gms\system\game\provider\WowGameProvider</classname>
 		</type>
 		<type>
 			<name>com.guilded.gms.game.item.tooltip.wow</name>
-			<definitionname>com.guilded.wcf.game.item.tooltip</definitionname>
+			<definitionname>com.guilded.gms.game.item.tooltip</definitionname>
 			<classname>gms\system\game\item\tooltip\WowGameItemTooltip</classname>
 		</type>
 	</import>

@@ -11,10 +11,6 @@
 			<identifier>1</identifier>	<!-- Optional: Internal identifier of race in game. Required for imports and synchronisation. -->
 		</race>
 
-		<race name="bloodelf">
-			<identifier>1</identifier>
-		</race>
-
 		<race name="draenei">
 			<identifier>11</identifier>
 		</race>

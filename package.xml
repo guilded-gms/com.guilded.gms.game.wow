@@ -24,7 +24,7 @@
 		<instruction type="game">game.xml</instruction>
 		<instruction type="gameRace">gameRace.xml</instruction>
 		<instruction type="gameRole">gameRole.xml</instruction>
-		<instruction type="gameClass">gameClass.xml</instruction>
+		<instruction type="gameClassification">gameClassification.xml</instruction>
 		<instruction type="characterProfileMenu">characterProfileMenu.xml</instruction>
 		<instruction type="objectType">objectType.xml</instruction>
 		<instruction type="language">language/*.xml</instruction>

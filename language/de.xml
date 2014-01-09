@@ -2,6 +2,35 @@
 <language languagecode="de" xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/maelstrom/language.xsd">
 	<category name="gms.game">
 		<item name="gms.game.wow.title"><![CDATA[World of Warcraft: Mists of Pandaria]]></item>
+		<item name="gms.game.wow.class.deathknight"><![CDATA[Todesritter]]></item>
+		<item name="gms.game.wow.class.druid"><![CDATA[Druide]]></item>
+		<item name="gms.game.wow.class.hunter"><![CDATA[Jäger]]></item>
+		<item name="gms.game.wow.class.mage"><![CDATA[Magier]]></item>
+		<item name="gms.game.wow.class.paladin"><![CDATA[Paladin]]></item>
 		<item name="gms.game.wow.class.priest"><![CDATA[Priester]]></item>
+		<item name="gms.game.wow.class.rogue"><![CDATA[Schurke]]></item>
+		<item name="gms.game.wow.class.shaman"><![CDATA[Schamane]]></item>
+		<item name="gms.game.wow.class.warrior"><![CDATA[Krieger]]></item>
+		<item name="gms.game.wow.class.warlock"><![CDATA[Hexenmeister]]></item>
+		<item name="gms.game.wow.class.monk"><![CDATA[Mönch]]></item>
+
+		<item name="gms.game.wow.race.bloodelf"><![CDATA[Blutelf]]></item>
+		<item name="gms.game.wow.race.draenei"><![CDATA[Draenei]]></item>
+		<item name="gms.game.wow.race.dwarf"><![CDATA[Zwerg]]></item>
+		<item name="gms.game.wow.race.goblin"><![CDATA[Goblin]]></item>
+		<item name="gms.game.wow.race.gnome"><![CDATA[Gnom]]></item>
+		<item name="gms.game.wow.race.human"><![CDATA[Mensch]]></item>
+		<item name="gms.game.wow.race.nightelf"><![CDATA[Nachelf]]></item>
+		<item name="gms.game.wow.race.orc"><![CDATA[Ork]]></item>
+		<item name="gms.game.wow.race.undead"><![CDATA[Untoter]]></item>
+		<item name="gms.game.wow.race.tauren"><![CDATA[Taure]]></item>
+		<item name="gms.game.wow.race.troll"><![CDATA[Troll]]></item>
+		<item name="gms.game.wow.race.worgen"><![CDATA[Worgen]]></item>
+		<item name="gms.game.wow.race.pandaren"><![CDATA[Pandaren]]></item>
+
+		<item name="gms.game.wow.role.tank"><![CDATA[Schutz]]></item>
+		<item name="gms.game.wow.role.melee"><![CDATA[Nahkampf]]></item>
+		<item name="gms.game.wow.role.range"><![CDATA[Fernkampf]]></item>
+		<item name="gms.game.wow.role.heal"><![CDATA[Heilung]]></item>
 	</category>
 </language>
