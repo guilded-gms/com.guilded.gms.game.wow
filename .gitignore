@@ -1,9 +1,10 @@
 $ cat .gitignore
-*.tar*
 /.idea
 /optional
 /required
 *.gz
 *.tar
+*.tar.gz
+*.tgz
 *.txt
 *.log

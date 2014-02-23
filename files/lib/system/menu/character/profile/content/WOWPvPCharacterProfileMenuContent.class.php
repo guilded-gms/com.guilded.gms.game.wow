@@ -3,7 +3,7 @@ namespace gms\system\menu\character\profile\content;
 use gms\data\character\Character;
 use wcf\system\WCF;
 
-class WOWPvPCharacterProfileMenuContent extends GameCharacterProfileMenuContent implements ICharacterProfileMenuContent {
+class WOWPvPCharacterProfileMenuContent extends AbstractGameCharacterProfileMenuContent implements ICharacterProfileMenuContent {
 	/**
 	 * @see	\wcf\system\menu\character\profile\content\ICharacterProfileMenuContent::getContent()
 	 */
