@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://www.guilded.eu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.guilded.eu http://www.guilded.eu/XSD/game-race.xsd">
+	<import>
+		<!-- @todo get the right identifiers -->
+		<race name="alliance">
+			<identifier>1</identifier>
+		</race>
+		<race name="horde">
+			<identifier>2</identifier>
+		</race>
+	</import>
+</data>
