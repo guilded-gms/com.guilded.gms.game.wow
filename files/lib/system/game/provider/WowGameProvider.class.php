@@ -1,6 +1,7 @@
 <?php
 namespace gms\system\game\provider;
-use gms\data\game\GameServer;
+use gms\data\game\server\GameServer;
+use wcf\system\WCF;
 use wcf\util\JSON;
 
 /**

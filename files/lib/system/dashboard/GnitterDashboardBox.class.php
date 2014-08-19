@@ -5,13 +5,15 @@ use gms\data\guild\GuildList;
 use gms\page\GuildPage;
 use wcf\data\dashboard\box\DashboardBox;
 use wcf\page\IPage;
+use wcf\system\dashboard\box\AbstractSidebarDashboardBox;
 use wcf\system\WCF;
 
 /**
  * DashboardBox for showing server status.
  *
  * @author	Jeffrey Reichardt
- * @copyright	Creative Commons 3.0 <BY-NC-SA> <http://creativecommons.org/licenses/by-nc-sa/3.0/deed>
+ * @copyright	2012-2014 DevLabor UG (haftungsbeschränkt)
+ * @license	CC BY-NC-SA 3.0 <http://creativecommons.org/licenses/by-nc-sa/3.0/deed>
  * @package	com.guilded.gms.game.wow
  * @subpackage	system.dashboard.box
  * @category	Guilded 2.0
